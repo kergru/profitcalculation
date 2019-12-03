@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kgr.profitcalculation.domain.ProfitCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-28T19:09:49" hostname="kgr-LIFEBOOK-E754" time="0.528">
+  <properties/>
+  <testcase name="money_returns_amount()" classname="com.kgr.profitcalculation.domain.ProfitCalculatorTest" time="0.509"/>
+  <testcase name="get_calculation_returns_stored_calculation()" classname="com.kgr.profitcalculation.domain.ProfitCalculatorTest" time="0.005"/>
+  <testcase name="get_calculation_returns_new_calculation()" classname="com.kgr.profitcalculation.domain.ProfitCalculatorTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov 28, 2019 8:09:49 PM org.javamoney.moneta.DefaultMonetaryContextFactory createMonetaryContextNonNullConfig
+INFORMATION: Using custom MathContext: precision=256, roundingMode=HALF_EVEN
+]]></system-err>
+</testsuite>

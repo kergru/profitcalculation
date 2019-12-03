@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="profitcalculation.calculation-api.componentTest" target="1.8" />
+      <module name="profitcalculation.calculation-api.main" target="1.8" />
+      <module name="profitcalculation.calculation-api.test" target="1.8" />
+      <module name="profitcalculation.calculation-console.main" target="1.8" />
+      <module name="profitcalculation.calculation-console.test" target="1.8" />
+      <module name="profitcalculation.calculation-model.main" target="1.8" />
+      <module name="profitcalculation.calculation-model.test" target="1.8" />
+      <module name="profitcalculation.calculation-repository.main" target="1.8" />
+      <module name="profitcalculation.calculation-repository.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/profitcalculation.iml" filepath="$PROJECT_DIR$/.idea/profitcalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.componentTest.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.componentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.test.iml" filepath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.test.iml" />
+    </modules>
+  </component>
+</project>

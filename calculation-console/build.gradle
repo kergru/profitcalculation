@@ -1,0 +1,15 @@
+plugins {
+    id 'org.springframework.boot'
+}
+
+dependencies {
+    implementation project(':calculation-repository')
+    implementation project(':calculation-model')
+    implementation 'org.apache.commons:commons-lang3:3.0'
+    implementation 'org.springframework.shell:spring-shell-starter:2.0.1.RELEASE'
+    implementation 'org.springframework.boot:spring-boot-starter'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+}
+

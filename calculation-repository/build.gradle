@@ -1,0 +1,20 @@
+plugins {
+    id 'org.springframework.boot'
+}
+
+bootJar {
+    enabled = false
+}
+
+jar {
+    enabled = true
+}
+
+dependencies {
+    implementation project(':calculation-model')
+    compile 'org.springframework.boot:spring-boot-starter-data-redis'
+    compile group: 'org.zalando', name: 'jackson-datatype-money', version: '1.1.1'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.0'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.10.0'
+    compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.10.0'
+}

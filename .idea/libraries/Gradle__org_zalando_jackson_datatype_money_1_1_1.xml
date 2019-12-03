@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.zalando:jackson-datatype-money:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/jackson-datatype-money/1.1.1/85b0ca48ec0de713143c55f6e77b3dcd85609118/jackson-datatype-money-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.zalando/jackson-datatype-money/1.1.1/9403d698d60a9d528b7582d8ec47bd52be69152c/jackson-datatype-money-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

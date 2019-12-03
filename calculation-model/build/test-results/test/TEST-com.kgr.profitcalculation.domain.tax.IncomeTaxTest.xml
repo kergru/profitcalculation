@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kgr.profitcalculation.domain.tax.IncomeTaxTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-11-28T19:09:50" hostname="kgr-LIFEBOOK-E754" time="0.003">
+  <properties/>
+  <testcase name="monthly_tax_amount_10000()" classname="com.kgr.profitcalculation.domain.tax.IncomeTaxTest" time="0.001"/>
+  <testcase name="monthly_tax_amount_over_allowance()" classname="com.kgr.profitcalculation.domain.tax.IncomeTaxTest" time="0.0"/>
+  <testcase name="monthly_tax_amount_under_allowance()" classname="com.kgr.profitcalculation.domain.tax.IncomeTaxTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

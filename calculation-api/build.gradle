@@ -1,0 +1,16 @@
+plugins {
+    id 'org.springframework.boot'
+}
+
+apply from: 'gradle/componentTest.gradle'
+apply from: 'gradle/idea.gradle'
+
+dependencies {
+    implementation project(':calculation-repository')
+    implementation project(':calculation-model')
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
+}
+

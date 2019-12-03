@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c5fbba5-50b6-4e72-b2d1-b6b91daedcba" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-model" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-model" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-model" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-model" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="114" column="74" selection-start-line="114" selection-start-column="74" selection-end-line="114" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/ProfitCalculationParameterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Project.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/TestdataFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1695">
+              <caret line="126" column="60" selection-start-line="126" selection-start-column="60" selection-end-line="126" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/YearlyProfitCalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationParameter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cal</find>
+      <find>calc</find>
+      <find>calculate</find>
+      <find>double</find>
+      <find>MonetaryA</find>
+      <find>Money</find>
+      <find>money(</find>
+      <find>Money.of</find>
+      <find>, EURO</find>
+      <find>div</find>
+      <find>new MonthlyProfitCalculation</find>
+      <find>;</find>
+      <find>return null;</find>
+      <find>monthlyProfitCalculation</find>
+      <find>private</find>
+      <find>final</find>
+      <find>repay</find>
+      <find>month(</find>
+      <find>monthlyProfitCalculation.</find>
+      <find>ise</find>
+      <find>CalculationValues{</find>
+      <find>return this;</find>
+      <find>Value</find>
+      <find>softly.assertThat(actual.getMonth()).as(&quot;month&quot;).isEqualTo(expected.getMonth());</find>
+      <find>recalculate</find>
+      <find>).isEqualTo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Money</replace>
+      <replace>MonetaryAmount</replace>
+      <replace>money</replace>
+      <replace />
+      <replace>BigDecimal</replace>
+      <replace>public</replace>
+      <replace>() {return null;}</replace>
+      <replace>return stream(monthlyProfitCalculations).map(c -&gt; c.getGrossPay()).reduce(MonetaryFunctions.sum()).get();</replace>
+      <replace>calculateT</replace>
+      <replace>calculation</replace>
+      <replace>protected</replace>
+      <replace>rePay</replace>
+      <replace>calculation.</replace>
+      <replace>CalculationValues(</replace>
+      <replace>S</replace>
+      <replace>return myself;</replace>
+      <replace>calculate</replace>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyWorks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/FixedMonthlyExpense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/impl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/impl/Expense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Expense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPayment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/SolidarityTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/ValueAddedTax.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/BusinessTaxTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/IncomeTaxTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/SolidarityTaxTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/ValueAddedTaxTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/TaxPrePaymentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/Tax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Calculation.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/AbstractCalculationAssert.java" />
+        <option value="$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationAssert.java" />
+        <option value="$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/YearlyProfitCalculationAssert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/BusinessTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/IncomeTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPrePayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/CalculationValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/AbstractCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitAbstractCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitAbstractCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/AbstractCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/AbstractCalculationAssert.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationAssert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationParameter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/ProfitCalculationParameterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyCalculationAssertion.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/CalculationAssertions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyCalculationAssertions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/YearlyProfitCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/TestdataFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="129" />
+    <option name="width" value="1440" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-model" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="tax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8.0_212 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="assertj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="assertj" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="assertj" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="assertj" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.assertj:assertj-core:3.11.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="assertj-core-3.11.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="assertj" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="moneta-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="moneta-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="moneta-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="javamoney" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="moneta-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="javamoney" type="462c0819:PsiDirectoryNode" />
+              <item name="moneta" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.javamoney.moneta:moneta-core:1.3" type="70bed36:NamedLibraryElementNode" />
+              <item name="moneta-core-1.3.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="javamoney" type="462c0819:PsiDirectoryNode" />
+              <item name="moneta" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.projectlombok:lombok:1.18.10" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.projectlombok:lombok:1.18.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="lombok-1.18.10.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-model" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.projectlombok:lombok:1.18.10" type="70bed36:NamedLibraryElementNode" />
+              <item name="lombok-1.18.10.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kgr.profitcalculation.domain" />
+      <recent name="com.kgr.profitcalculation.domain.tax" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.kgr.profitcalculation.domain.ProfitCalculator" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.kgr.profitcalculation.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" />
+      <recent name="com.kgr.profitcalculation.domain.TestdataFactory" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/src/test" />
+        <option value="$PROJECT_DIR$/src/main" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.YearlyProfitCalculatorTest.calculate">
+    <configuration name="MonthlyProfitCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculation-model.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfitCalculationParameterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculation-model.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.domain.ProfitCalculationParameterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearlyProfitCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculation-model.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearlyProfitCalculatorTest.calculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculation-model.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" />
+      <option name="METHOD_NAME" value="calculate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.kgr.profitcalculation.domain in calculation-model.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculation-model.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.YearlyProfitCalculatorTest.calculate" />
+        <item itemvalue="JUnit.YearlyProfitCalculatorTest" />
+        <item itemvalue="JUnit.ProfitCalculationParameterTest" />
+        <item itemvalue="JUnit.com.kgr.profitcalculation.domain in calculation-model.test" />
+        <item itemvalue="JUnit.MonthlyProfitCalculatorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c5fbba5-50b6-4e72-b2d1-b6b91daedcba" name="Default Changelist" comment="" />
+      <created>1572627775422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572627775422</updated>
+      <workItem from="1572627779567" duration="226000" />
+      <workItem from="1572628021334" duration="16568000" />
+      <workItem from="1572686392782" duration="10889000" />
+      <workItem from="1572774161380" duration="2071000" />
+      <workItem from="1572799377748" duration="7080000" />
+      <workItem from="1572859688736" duration="2776000" />
+      <workItem from="1572880993542" duration="64000" />
+      <workItem from="1572906500581" duration="3326000" />
+      <workItem from="1572944401931" duration="7121000" />
+      <workItem from="1572980016390" duration="5223000" />
+      <workItem from="1572992236605" duration="1264000" />
+      <workItem from="1573036333463" duration="4207000" />
+      <workItem from="1573043637251" duration="4960000" />
+      <workItem from="1573118373715" duration="1493000" />
+      <workItem from="1573125176263" duration="12875000" />
+      <workItem from="1573201239153" duration="9774000" />
+      <workItem from="1573305715264" duration="632000" />
+      <workItem from="1573325884728" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MonthlyProfitCalculatorTest - 2019.11.08 at 18h 33m 07s.xml">
+      <configuration name="MonthlyProfitCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_kgr_profitcalculation_domain_in_calculation-model_test - 2019.11.08 at 18h 34m 11s.xml">
+      <configuration name="com.kgr.profitcalculation.domain in calculation-model.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest - 2019.11.08 at 18h 56m 17s.xml">
+      <configuration name="YearlyProfitCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest - 2019.11.08 at 19h 04m 13s.xml">
+      <configuration name="YearlyProfitCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest - 2019.11.08 at 19h 05m 29s.xml">
+      <configuration name="YearlyProfitCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProfitCalculationParameterTest - 2019.11.08 at 19h 16m 00s.xml">
+      <configuration name="ProfitCalculationParameterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest - 2019.11.08 at 19h 16m 52s.xml">
+      <configuration name="YearlyProfitCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest_calculate - 2019.11.08 at 19h 43m 42s.xml">
+      <configuration name="YearlyProfitCalculatorTest.calculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest_calculate - 2019.11.08 at 19h 45m 03s.xml">
+      <configuration name="YearlyProfitCalculatorTest.calculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YearlyProfitCalculatorTest_calculate - 2019.11.08 at 19h 45m 49s.xml">
+      <configuration name="YearlyProfitCalculatorTest.calculate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91164000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26549146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29497206" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36201116" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="TeamCity" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.33966482" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.13995726" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/AbstractObjectAssert.java</url>
+          <line>683</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/ValueAddedTaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/tax/TaxPrePaymentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="46" column="58" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/FixedMonthlyExpense.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="2" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/RequiredArgsConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.money/money-api/1.0.3/4156c864848d011054ac0412af519070b5d8b8e9/money-api-1.0.3-sources.jar!/javax/money/Monetary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="383" column="22" lean-forward="true" selection-start-line="383" selection-start-column="22" selection-end-line="383" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.money/money-api/1.0.3/4156c864848d011054ac0412af519070b5d8b8e9/money-api-1.0.3-sources.jar!/javax/money/spi/MonetaryCurrenciesSingletonSpi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="59" column="74" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.money/money-api/1.0.3/4156c864848d011054ac0412af519070b5d8b8e9/money-api-1.0.3-sources.jar!/javax/money/DefaultMonetaryCurrenciesSingletonSpi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.money/money-api/1.0.3/4156c864848d011054ac0412af519070b5d8b8e9/money-api-1.0.3-sources.jar!/javax/money/CurrencyUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.money/money-api/1.0.3/4156c864848d011054ac0412af519070b5d8b8e9/money-api-1.0.3-sources.jar!/javax/money/convert/ConversionQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="e#2738#2739#0" expanded="true" />
+            <element signature="e#2803#2804#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javamoney.moneta/moneta-core/1.3/ad5c82a44df914b2d8a2241bad295479caab4776/moneta-core-1.3-sources.jar!/org/javamoney/moneta/function/MoneyProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/FixedMonthlyExpenseAssert.java" />
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javamoney.moneta/moneta-core/1.3/ad5c82a44df914b2d8a2241bad295479caab4776/moneta-core-1.3-sources.jar!/org/javamoney/moneta/function/FastMoneyProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/CalculatorAssert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/IncomeTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/BusinessTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/SolidarityTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/ValueAddedTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Expense.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/AllArgsConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPrePaymentInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/generated-src/test/java/com/kgr/profitcalculation/domain/Assertions.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/internal/ComparisonStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/EqualsAndHashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/AbstractObjectAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="682" column="14" selection-start-line="682" selection-start-column="14" selection-end-line="682" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/internal/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="349" selection-start-line="349" selection-end-line="349" />
+          <folding>
+            <element signature="e#15771#15772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/internal/StandardComparisonStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#2680#2681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/AbstractCalculationAssert.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.11.1/55362d8f04018b1140c5a370057bf8cd4a63c3de/assertj-core-3.11.1-sources.jar!/org/assertj/core/api/AbstractAssert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="256" selection-start-line="256" selection-end-line="259" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationAssert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/CalculationValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/YearlyProfitCalculationAssert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/AbstractCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/AbstractCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPrePayment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyCalculationAssertions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="114" column="74" selection-start-line="114" selection-start-column="74" selection-end-line="114" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/ProfitCalculationParameterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/TestdataFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="126" column="60" selection-start-line="126" selection-start-column="60" selection-end-line="126" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kgr/profitcalculation/domain/YearlyProfitCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

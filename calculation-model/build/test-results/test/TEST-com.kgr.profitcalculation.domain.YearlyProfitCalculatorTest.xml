@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-11-28T19:09:49" hostname="kgr-LIFEBOOK-E754" time="1.224">
+  <properties/>
+  <testcase name="getSolidarityTaxPrePaymentAmount_returns_yearly_amount()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.047"/>
+  <testcase name="getSolidarityTaxPrePaymentAmount_returns_zero_for_no_prepayment()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.001"/>
+  <testcase name="calculate()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="1.167"/>
+  <testcase name="getBusinessTaxPrePaymentAmount_returns_zero_for_no_prepayment()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.001"/>
+  <testcase name="getIncomeTaxPrePaymentAmount_returns_zero_for_no_prepayment()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.001"/>
+  <testcase name="getIncomeTaxPrePaymentAmount_returns_yearly_amount()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.001"/>
+  <testcase name="getBusinessTaxPrePaymentAmount_returns_yearly_amount()" classname="com.kgr.profitcalculation.domain.YearlyProfitCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

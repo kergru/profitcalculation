@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-11-28T19:09:50" hostname="kgr-LIFEBOOK-E754" time="0.038">
+  <properties/>
+  <testcase name="calculate_with_no_project()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.005"/>
+  <testcase name="calculate_fails_with_null_calculationparameter()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.003"/>
+  <testcase name="calculate_with_work_100h_and_prePayments_less_then_real_tax_amounts()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.005"/>
+  <testcase name="calculate_with_work_100h_and_prePayments_greater_then_real_tax_amounts()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.006"/>
+  <testcase name="calculate_with_work_0h()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.004"/>
+  <testcase name="calculate_with_work_10h()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.004"/>
+  <testcase name="calculate_with_work_100h_and_no_prePayments()" classname="com.kgr.profitcalculation.domain.MonthlyProfitCalculatorTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

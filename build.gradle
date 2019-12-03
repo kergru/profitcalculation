@@ -1,0 +1,40 @@
+plugins {
+    id 'org.springframework.boot' version '2.2.0.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
+}
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'io.spring.dependency-management'
+    apply plugin: 'java-library'
+    apply plugin: 'idea'
+
+    group = 'com.kgr.profitcalculation'
+    version = '0.0.1-SNAPSHOT'
+    sourceCompatibility = '1.8'
+
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+
+    configurations {
+        compileOnly {
+            extendsFrom annotationProcessor
+        }
+    }
+
+    dependencies {
+        compileOnly 'org.projectlombok:lombok:1.18.10'
+        annotationProcessor 'org.projectlombok:lombok:1.18.10'
+        testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
+        testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.5.2'
+        testCompile 'org.assertj:assertj-core:3.11.1'
+        testCompile 'org.mockito:mockito-junit-jupiter:3.1.0'
+    }
+
+    test {
+        useJUnitPlatform()
+    }
+
+}

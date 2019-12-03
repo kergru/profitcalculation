@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46f6ab29-8094-4548-bfef-c0e263a057ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/../calclulation-model/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../calclulation-model/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../calclulation-model">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../calclulation-model">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calclulation-model" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calclulation-model" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-api" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="calculation-api" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*pense</find>
+      <find>Money</find>
+      <find>YearlyProfitCalculation</find>
+      <find>calculate</find>
+      <find>ProjectRequest</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>netRevenueAmont</replace>
+      <replace>Expenses</replace>
+      <replace>fixedPrivateExpenses</replace>
+      <replace>xpense</replace>
+      <replace>double</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfilCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/api/ProfitCalculationResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/TaxType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationCommad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Income.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Tax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ProjectRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/TaxPrePaymentInterval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/TaxPrePayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/TaxPayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/BusinessTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/SolidarityTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/IncomeTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/ValueAddedTax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ExpenseCategory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfileResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ProjectRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProjectRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ExpenseRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/MonthlyWork.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/TaxPrePayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/TaxPayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/Tax.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPayment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProjectResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/FixedExpenseResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/YearlyProfitCalculationRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Expense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/FixedMonthlyExpense.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationParameter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/YearlyProfitCalculationRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/FixedExpenseRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ExpenseRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ExpenseRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/config/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/config/ProfitCalculationConfiguration.java" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="129" />
+    <option name="width" value="1440" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculation-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="kgr" type="462c0819:PsiDirectoryNode" />
+              <item name="profitcalculation" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="calculation-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calclulation-model" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kgr.profitcalculation.domain" />
+      <recent name="com.kgr.profitcalculation.api" />
+      <recent name="com.kgr.profitcalculation.repository" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$/src/main" />
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/src/test" />
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="calclulation-model [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../calclulation-model" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.calclulation-model [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f6ab29-8094-4548-bfef-c0e263a057ae" name="Default Changelist" comment="" />
+      <created>1572178720058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572178720058</updated>
+      <workItem from="1572178724280" duration="1819000" />
+      <workItem from="1572189028263" duration="7801000" />
+      <workItem from="1572257009077" duration="4689000" />
+      <workItem from="1572275696953" duration="2844000" />
+      <workItem from="1572338823564" duration="10939000" />
+      <workItem from="1572376888349" duration="2332000" />
+      <workItem from="1572379230471" duration="976000" />
+      <workItem from="1572386408578" duration="9512000" />
+      <workItem from="1572449787079" duration="801000" />
+      <workItem from="1572518820528" duration="4358000" />
+      <workItem from="1572552393652" duration="15601000" />
+      <workItem from="1572625254240" duration="554000" />
+      <workItem from="1572625849282" duration="332000" />
+      <workItem from="1572626269720" duration="172000" />
+      <workItem from="1572627684165" duration="50000" />
+      <workItem from="1572627737686" duration="41000" />
+      <workItem from="1572636650145" duration="1202000" />
+      <workItem from="1572686359063" duration="632000" />
+      <workItem from="1572774120938" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64692000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31463677" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.26815644" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="TeamCity" order="14" />
+      <window_info anchor="bottom" id="Spring" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.16559829" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/expense/PrivateExpense.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/expense/BusinessExpense.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/GrossPay.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/GrossRevenue.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/NetIncome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Money.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/Value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/1853e1e74e4963a316bd16aa21ce3e9a8c139efe/lombok-1.18.10-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Income.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/src.zip!/java/time/Month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="234" column="15" selection-start-line="234" selection-start-column="15" selection-end-line="234" selection-end-column="15" />
+          <folding>
+            <element signature="e#9499#9500#0" expanded="true" />
+            <element signature="e#9535#9536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/TaxPrePayment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Tax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ProjectRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPrePaymentInterval.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/IncomeTax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/SolidarityTax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/ValueAddedTax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ExpenseCategory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Project.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ProjectRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/BusinessTax.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/tax/TaxPayment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyWork.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationRequest.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.0.RELEASE/e49b6753442bc35a00ef655e500725881ea59aee/spring-web-5.2.0.RELEASE-sources.jar!/org/springframework/web/bind/annotation/GetMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ExpenseRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProjectRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/YearlyProfitCalculationRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/Expense.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/FixedMonthlyExpense.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculationParameter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/TaxPayment.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/YearlyProfitCalculationRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/domain/ProfitCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ExpenseRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProjectResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/config/ProfitCalculationConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/repository/ExpenseRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/FixedExpenseResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kgr/profitcalculation/api/ProfitCalculationResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" selection-start-line="33" selection-end-line="34" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>calclulation-model</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

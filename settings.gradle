@@ -1,0 +1,7 @@
+rootProject.name = 'profitcalculation'
+
+include 'calculation-repository'
+include 'calculation-model'
+include 'calculation-api'
+include 'calculation-console'
+

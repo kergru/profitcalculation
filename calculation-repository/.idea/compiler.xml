@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calclulation-model.main" target="1.8" />
+      <module name="calclulation-model.test" target="1.8" />
+      <module name="calculation.main" target="1.8" />
+      <module name="calculation.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

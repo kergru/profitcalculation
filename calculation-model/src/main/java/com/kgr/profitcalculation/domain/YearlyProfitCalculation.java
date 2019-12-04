@@ -65,8 +65,8 @@ public class YearlyProfitCalculation extends AbstractCalculation {
         return calculation;
     }
 
-    MonthlyProfitCalculation getMonthlyProfitCalculation(YearMonth yearMonth) {
-        return stream(monthlyProfitCalculations).filter(c -> c.getYearMonth() == yearMonth).findFirst().get();
+    public MonthlyProfitCalculation getMonthlyProfitCalculation(YearMonth yearMonth) {
+        return stream(monthlyProfitCalculations).filter(c -> c.getYearMonth().equals(yearMonth)).findFirst().get();
     }
 
     @Override

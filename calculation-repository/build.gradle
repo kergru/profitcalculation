@@ -2,6 +2,9 @@ plugins {
     id 'org.springframework.boot'
 }
 
+apply from: 'gradle/componentTest.gradle'
+apply from: 'gradle/idea.gradle'
+
 bootJar {
     enabled = false
 }
@@ -13,8 +16,13 @@ jar {
 dependencies {
     implementation project(':calculation-model')
     compile 'org.springframework.boot:spring-boot-starter-data-redis'
+    compile 'org.springframework.boot:spring-boot-starter-data-jpa'
     compile group: 'org.zalando', name: 'jackson-datatype-money', version: '1.1.1'
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.10.0'
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.10.0'
     compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.10.0'
+    runtime 'com.h2database:h2'
+    testImplementation('org.springframework.boot:spring-boot-starter-test') {
+        exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
+    }
 }

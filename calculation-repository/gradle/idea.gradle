@@ -1,0 +1,10 @@
+apply plugin: 'idea'
+
+idea {
+    module {
+        testSourceDirs += project.sourceSets.componentTest.java.srcDirs
+        testSourceDirs += project.sourceSets.componentTest.resources.srcDirs
+
+        downloadSources = true
+    }
+}

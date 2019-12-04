@@ -24,8 +24,89 @@
     <option name="showStatusBarWidget" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="989693dd-776b-41c8-a3b3-3f1d219e5158" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="989693dd-776b-41c8-a3b3-3f1d219e5158" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_h2database_h2_1_4_199.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_istack_istack_commons_runtime_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_xml_fastinfoset_FastInfoset_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_zaxxer_HikariCP_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_runtime_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_glassfish_jaxb_txw2_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_4_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jvnet_staxex_stax_ex_1_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aspects_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_orm_5_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.componentTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/gradle/componentTest.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/gradle/idea.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/component-test/java/com/kgr/profitcalculation/repository/jpa/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/component-test/java/com/kgr/profitcalculation/repository/jpa/ComponentTestDataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/component-test/java/com/kgr/profitcalculation/repository/jpa/YearlyProfitCalculationJpaRepositoryAdapterCT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/JpaRepositoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/SimpleRepositoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/CalculationValuesMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/FixedMonthlyExpenseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/MonthlyCalculationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/TaxPrePaymentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/YearlyCalculationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/YearlyProfitCalculationJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/YearlyProfitCalculationJpaRepositoryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/CalculationValuesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/ExpenseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/FixedMonthlyExpenseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/MonthlyProfitCalculationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/TaxPrePaymentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/jpa/entity/YearlyProfitCalculationEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.componentTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.componentTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-api/profitcalculation.calculation-api.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-console/profitcalculation.calculation-console.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-model/profitcalculation.calculation-model.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/calculation-repository/profitcalculation.calculation-repository.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-api/out/production/classes/com/kgr/profitcalculation/ProfitCalculationWebApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-api/out/production/classes/com/kgr/profitcalculation/ProfitCalculationWebApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-api/out/production/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-api/out/production/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-api/src/main/java/com/kgr/profitcalculation/ProfitCalculationWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-api/src/main/java/com/kgr/profitcalculation/ProfitCalculationWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-api/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-api/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/build/classes/java/main/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/build/classes/java/main/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/build/libs/calculation-model-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/build/libs/calculation-model-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/out/production/classes/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/out/production/classes/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/out/production/classes/com/kgr/profitcalculation/domain/YearlyProfitCalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/out/production/classes/com/kgr/profitcalculation/domain/YearlyProfitCalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/src/main/java/com/kgr/profitcalculation/domain/MonthlyProfitCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-model/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-model/src/main/java/com/kgr/profitcalculation/domain/YearlyProfitCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-repository/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-repository/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-repository/build/classes/java/main/com/kgr/profitcalculation/configuration/RepositoryConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-repository/out/production/classes/com/kgr/profitcalculation/configuration/RepositoryConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/RepositoryConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/RedisRepositoryConfiguration.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +126,9 @@
         <task path="$PROJECT_DIR$/calculation-console">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/calculation-repository">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -55,168 +139,70 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
+                <item name="calculation-console" type="2d1252cf:ModuleNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
+                <item name="calculation-console" type="2d1252cf:ModuleNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="componentTest" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="componentTest" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
+                <item name="calculation-console" type="2d1252cf:ModuleNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
                 <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
+                <item name="calculation-console" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-api" type="2d1252cf:ModuleNode" />
+                <item name="calculation-console" type="2d1252cf:ModuleNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="profitcalculation" type="f1a62948:ProjectNode" />
+                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="verification" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-console" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-model" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-model" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-model" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-model" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.0.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.0.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="org.springframework.data:spring-data-redis:2.2.0.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="profitcalculation" type="f1a62948:ProjectNode" />
-                <item name="calculation-repository" type="2d1252cf:ModuleNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-                <item name="org.springframework.boot:spring-boot-starter-data-redis:2.2.0.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
-                <item name="io.lettuce:lettuce-core:5.2.0.RELEASE" type="cfea851d:ExternalSystemViewDefaultContributor$LibraryDependencyDataExternalSystemNode" />
               </path>
             </expand>
             <select />
@@ -229,12 +215,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TYoX6TA1uVY0k4pa7PyvGjYCkM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
@@ -247,13 +243,14 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/calculation-api/src/component-test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calculation-repository" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -262,33 +259,36 @@
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
-    <key name="IntroduceConstantDialog.RECENTS_KEY">
-      <recent name="com.kgr.profitcalculation.rest.ComponentTestDataFactory" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kgr.profitcalculation.repository.jpa" />
+      <recent name="com.kgr.profitcalculation.rest" />
+      <recent name="com.kgr.profitcalculation.console.adapter" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kgr.profitcalculation.repository.jpa" />
       <recent name="com.kgr.profitcalculation.rest" />
       <recent name="com.kgr.profitcalculation.domain" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/calculation-api/gradle" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.kgr.profitcalculation.rest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calculation-api/gradle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.kgr.profitcalculation.rest" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/calculation-repository" />
       <recent name="$PROJECT_DIR$/gradle" />
       <recent name="$PROJECT_DIR$/calculation-api/gradle" />
       <recent name="$PROJECT_DIR$/calculation-api" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.kgr.profitcalculation.rest" />
-      <recent name="com.kgr.profitcalculation.console.adapter" />
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="com.kgr.profitcalculation.rest.ComponentTestDataFactory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -297,41 +297,12 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
-  <component name="RunManager" selected="Gradle.profitcalculation:calculation-console [build]">
-    <configuration name="profitcalculation:calculation-api [componentTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="JUnit.ProfitCalculationResourceCT">
+    <configuration name="profitcalculation:calculation-repository [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/calculation-api" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="componentTest" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="profitcalculation:calculation-api [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/calculation-api" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/calculation-repository" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -347,44 +318,55 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="profitcalculation:calculation-console [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/calculation-console" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="All in profitcalculation.calculation-model.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="profitcalculation.calculation-model.test" />
+    <configuration name="All in profitcalculation.calculation-api.componentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="profitcalculation.calculation-api.componentTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxPrePaymentTest.prePayment_with_null_intervall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="profitcalculation.calculation-model.test" />
+    <configuration name="ProfitCalculationResourceCT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="profitcalculation.calculation-api.componentTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kgr.profitcalculation.domain.tax.*" />
+          <option name="PATTERN" value="com.kgr.profitcalculation.rest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.domain.tax" />
-      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.domain.tax.TaxPrePaymentTest" />
-      <option name="METHOD_NAME" value="prePayment_with_null_intervall" />
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.rest.ProfitCalculationResourceCT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearlyProfitCalculationJpaRepositoryAdapterCT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="profitcalculation.calculation-repository.componentTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.repository.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.repository.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.repository.jpa.YearlyProfitCalculationJpaRepositoryAdapterCT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearlyProfitCalculationJpaRepositoryAdapterCT.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="profitcalculation.calculation-repository.componentTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kgr.profitcalculation.repository.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kgr.profitcalculation.repository.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.kgr.profitcalculation.repository.jpa.YearlyProfitCalculationJpaRepositoryAdapterCT" />
+      <option name="METHOD_NAME" value="save" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -414,23 +396,24 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.profitcalculation:calculation-console [build]" />
-        <item itemvalue="JUnit.TaxPrePaymentTest.prePayment_with_null_intervall" />
-        <item itemvalue="JUnit.All in profitcalculation.calculation-model.test" />
-        <item itemvalue="Gradle.profitcalculation:calculation-api [test]" />
-        <item itemvalue="Gradle.profitcalculation:calculation-api [componentTest]" />
+        <item itemvalue="JUnit.ProfitCalculationResourceCT" />
+        <item itemvalue="JUnit.YearlyProfitCalculationJpaRepositoryAdapterCT.save" />
+        <item itemvalue="JUnit.YearlyProfitCalculationJpaRepositoryAdapterCT" />
+        <item itemvalue="JUnit.All in profitcalculation.calculation-api.componentTest" />
+        <item itemvalue="Gradle.profitcalculation:calculation-repository [test]" />
       </list>
     </recent_temporary>
   </component>
   <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <option name="contentProportion" value="0.21052632" />
-        <treeState>
-          <expand />
-          <select />
-        </treeState>
-      </serviceView>
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -464,20 +447,82 @@
       <workItem from="1575037113565" duration="3000" />
       <workItem from="1575132964968" duration="75000" />
       <workItem from="1575133089076" duration="70000" />
+      <workItem from="1575463701338" duration="18722000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="177" width="800" height="684" key="#Project_Structure" timestamp="1575484564161">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="555" y="177" width="800" height="684" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1575484564161" />
+    <state x="768" y="226" width="374" height="586" key="#com.intellij.ide.util.MemberChooser" timestamp="1575475933195">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="768" y="226" width="374" height="586" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1575475933195" />
+    <state x="687" y="296" width="524" height="453" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1575483425899">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="687" y="296" width="524" height="453" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1575483425899" />
+    <state x="490" y="0" width="930" height="1032" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575481619662">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="490" y="0" width="930" height="1032" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1575481619662" />
+    <state width="1872" height="229" key="GridCell.Tab.0.bottom" timestamp="1575493362546">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1575493362546" />
+    <state width="1872" height="229" key="GridCell.Tab.0.center" timestamp="1575493362546">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="229" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1575493362546" />
+    <state width="1872" height="229" key="GridCell.Tab.0.left" timestamp="1575493362546">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="229" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1575493362546" />
+    <state width="1872" height="229" key="GridCell.Tab.0.right" timestamp="1575493362546">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="229" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1575493362546" />
+    <state width="1872" height="270" key="GridCell.Tab.1.bottom" timestamp="1575493333440">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="270" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1575493333440" />
+    <state width="1872" height="270" key="GridCell.Tab.1.center" timestamp="1575493333439">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="270" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1575493333439" />
+    <state width="1872" height="270" key="GridCell.Tab.1.left" timestamp="1575493333439">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="270" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1575493333439" />
+    <state width="1872" height="270" key="GridCell.Tab.1.right" timestamp="1575493333440">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="270" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1575493333440" />
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor" timestamp="1575484317309">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1575484317309" />
+    <state x="738" y="435" width="433" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575480451486">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="738" y="435" width="433" height="169" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1575480451486" />
+    <state x="670" y="231" width="569" height="577" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575483433513">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="670" y="231" width="569" height="577" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1575483433513" />
+    <state x="624" y="233" width="672" height="677" key="run.anything.popup" timestamp="1575465073483">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="624" y="233" width="672" height="677" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1575465073483" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/RepositoryConfiguration.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/repository/YearlyProfitCalculationServiceDelegator.java</url>
           <line>12</line>
@@ -529,9 +574,14 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/RepositoryConfiguration.java</url>
-          <line>35</line>
+          <url>file://$PROJECT_DIR$/calculation-repository/src/main/java/com/kgr/profitcalculation/configuration/RedisRepositoryConfiguration.java</url>
+          <line>27</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/calculation-repository/src/component-test/java/com/kgr/profitcalculation/repository/jpa/ComponentTestDataFactory.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

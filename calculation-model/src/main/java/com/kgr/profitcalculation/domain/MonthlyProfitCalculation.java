@@ -30,7 +30,7 @@ public class MonthlyProfitCalculation extends AbstractCalculation {
 
     private List<FixedMonthlyExpense> fixedPrivateExpenses = new ArrayList<>();
 
-    static MonthlyProfitCalculation create(YearMonth yearMonth) {
+    public static MonthlyProfitCalculation create(YearMonth yearMonth) {
         MonthlyProfitCalculation calculation = new MonthlyProfitCalculation();
         calculation.yearMonth = yearMonth;
         return calculation;

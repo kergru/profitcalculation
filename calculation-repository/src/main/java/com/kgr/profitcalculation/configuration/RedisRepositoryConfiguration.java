@@ -6,7 +6,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import com.kgr.profitcalculation.repository.YearlyProfitCalculationRepository;
 import com.kgr.profitcalculation.repository.redis.YearlyProfitCalculationRedisRepository;
-import com.kgr.profitcalculation.repository.simple.YearlyProfitCalculationSimpleRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.context.annotation.Bean;
@@ -18,20 +17,13 @@ import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
 import org.zalando.jackson.datatype.money.MoneyModule;
 
 @Configuration
-public class RepositoryConfiguration {
+@ConditionalOnProperty(name = "calculation.cache", havingValue = "redis")
+public class RedisRepositoryConfiguration {
 
     @Value("${redis.host}")
     private String redisHost;
 
     @Bean(name = "yearlyProfitCalculationRepository")
-    @ConditionalOnProperty(name = "calculation.cache", havingValue = "simple")
-    YearlyProfitCalculationRepository yearlyProfitCalculationSimpleRepository() {
-        System.out.println("###### Using simple cache");
-        return new YearlyProfitCalculationSimpleRepository();
-    }
-
-    @Bean(name = "yearlyProfitCalculationRepository")
-    @ConditionalOnProperty(name = "calculation.cache", havingValue = "redis")
     YearlyProfitCalculationRepository yearlyProfitCalculationRedisRepository() {
         return new YearlyProfitCalculationRedisRepository(redisTemplate());
     }
@@ -45,7 +37,6 @@ public class RepositoryConfiguration {
     public RedisTemplate<?, ?> redisTemplate() {
         final RedisTemplate<String, Object> template = new RedisTemplate<String, Object>();
         template.setConnectionFactory(redisConnectionFactory());
-        System.out.println("###### Using redis on host: " + redisConnectionFactory().getHostName());
 
         Jackson2JsonRedisSerializer jackson2JsonRedisSerializer = getJackson2JsonRedisSerializer();
         template.setValueSerializer(jackson2JsonRedisSerializer);
